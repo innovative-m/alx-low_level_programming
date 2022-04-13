@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * int _aabbss - value absolute
- * the int to print
+ * int _abs - value absolute
  *
+ * @n: to hold the inpit
  * Return: Always 0.
  */
 int _abs(int n)
