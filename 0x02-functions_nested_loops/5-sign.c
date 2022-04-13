@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * pront_sign _ function to print sign of number base on the argument
  *
  * print_sign - return 0 letter not lowercase, 1 letter lower
  * the int n to print
  *
- * Return Always 0
+ * Return 1 if + return 0 if 0 else retturn -1
  */
 int print_sign(int n)
 {
@@ -17,11 +17,12 @@ return (1);
 }
 else if (n == 0)
 {
-_putchar9('0');
+_putchar('0');
 return (0);
 }
 else
 {
 _putchar('-');
 return (-1);
+}
 }
