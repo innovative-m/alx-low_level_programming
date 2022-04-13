@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - Entry point
  *
- * Return: Always 0.
+ * return 1 if c is a letter
+ * int c to print
+ * Return 0 Always
  */
 int _islower(int c)
 {

@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - check the code
+ * int _aabbss - value absolute
+ * the int to print
  *
  * Return: Always 0.
  */

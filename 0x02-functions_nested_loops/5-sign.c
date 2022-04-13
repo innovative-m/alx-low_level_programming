@@ -1,9 +1,12 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - Entry point
  *
- * Return: Always 0.
+ * print_sign - return 0 letter not lowercase, 1 letter lower
+ * the int n to print
+ *
+ * Return Always 0
  */
 int print_sign(int n)
 {
