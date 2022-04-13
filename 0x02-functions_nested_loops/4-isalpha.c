@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _isalpha - check if c is an alphabet 
+ * _isalpha - check if c is an alphabet
  *
  * return 1 if c is a letter
- * int c to print
- * Return 0 Always
+ * @c: to print
+ * Return: 1 or 0 Always
  */
 int _isalpha(int c)
 {
