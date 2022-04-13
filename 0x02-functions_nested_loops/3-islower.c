@@ -5,7 +5,7 @@
  *
  * @c:  the var contains the number to be compared
  * _islower - single line and c conatins value compared
- *Return: always return 0 
+ *Return: always return 0
  */
 int _islower(int c)
 {
