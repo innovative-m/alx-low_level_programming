@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * _strncpy - function to copy one string to another
@@ -7,6 +8,7 @@
  *
  * Return: the parameter
  */
+
 char *_strncpy(char *dest, char *src, int n)
 {
 int i;
