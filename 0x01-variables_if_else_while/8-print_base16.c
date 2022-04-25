@@ -10,7 +10,7 @@ int main(void)
 {
 char c;
 int i;
-for (i = 48; i <= 58; i++)
+for (i = 0; i <= 9; i++)
 {
 putchar(i);
 }
@@ -18,6 +18,6 @@ for (c = 'a'; c <= 'f'; c++)
 {
 putchar(c);
 }
-putchar(10);
+putchar('\n');
 return (0);
 }
