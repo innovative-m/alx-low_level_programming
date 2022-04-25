@@ -1,6 +1,6 @@
+#include <stdio.h>
 #include <stdlib.h>
-/* 0x01 task 7
-##include <time.h>
+#include <time.h>
 /**
 * main - Entry point
 *
