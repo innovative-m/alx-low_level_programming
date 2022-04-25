@@ -14,7 +14,7 @@ for (i = 48; i <= 58; i++)
 {
 putchar(i);
 }
-For (c = 'a'; c <= 'f'; c++)
+for (c = 'a'; c <= 'f'; c++)
 {
 putchar(c);
 }
