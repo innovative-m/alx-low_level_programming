@@ -1,6 +1,6 @@
-#ifndef FLIKE_H
-#define FLIKE_H
+#ifndef ABS_H
+#define ABS_H
 
-#include "absolute.h"
+#define ABS(x) ((x < 0) ? ((x) * -1) : (x))
 
-#endif /* FLIKE_H */
+#endif /* ABS_H */
